@@ -155,3 +155,10 @@ span.glyphicon.glyphicon-remove-sign.removeExcluded {
 .search-dropdown {
 	width: 120px;
 }
+
+/* SB styles test*/
+.badge {
+	background-color: transparent;
+	border-radius: 0;
+	color: #aaa;
+}
